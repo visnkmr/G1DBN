@@ -19,4 +19,6 @@ Source:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3872039/
 
 http://wi.pb.edu.pl/pliki/nauka/zeszyty/z9/Lupinska-full.pdf
 
-Rdocumentation: http://www.rdocumentation.org/packages/G1DBN/versions/3.1.1
+Rdocumentation: http://www.rdocumentation.org/packages/G1DBN/versions/3.1.
+
+R help, advanced search this url in google to obtain help related to R: https://stat.ethz.ch/mailman/listinfo/r-help
