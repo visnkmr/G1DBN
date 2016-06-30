@@ -18,3 +18,5 @@ G1DBN is a R package (Lebre, 2009) that estimates dynamic Bayesian networks, usi
 Source:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3872039/
 
 http://wi.pb.edu.pl/pliki/nauka/zeszyty/z9/Lupinska-full.pdf
+
+Rdocumentation: http://www.rdocumentation.org/packages/G1DBN/versions/3.1.1
